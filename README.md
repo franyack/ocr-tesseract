@@ -29,7 +29,7 @@ All the scripts are based on <b>Adrian Rosebrock</b> and his website [pyimagesea
     pip install -r requirements.txt
     ```
 
-- That's all! Yoy could run any python script. Por example:
+- That's all! Yoy could run any python script. For example:
 
     ```
     python scripts/ocr_folder_process.py --folder folder_path_where_you_have_your_images_to_process --blacklist "|/\[](){}" 
