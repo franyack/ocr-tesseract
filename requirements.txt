@@ -1,0 +1,5 @@
+numpy
+Pillow
+pandas
+opencv-contrib-python
+pytesseract
